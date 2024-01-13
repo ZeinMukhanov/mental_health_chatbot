@@ -31,6 +31,14 @@
   text-align: left;
 }
 
+.inputText .cs-button--attachment {
+  display: none;
+}
+
+.inputText .cs-message-input__content-editor-wrapper {
+  margin-left: 15px;
+}
+
 .responseText {
   text-align: left;
 }

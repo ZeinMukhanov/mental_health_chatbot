@@ -99,7 +99,7 @@ function App() {
                  return <Message key={i} model={message} className='responseText'/>
                })}
            </MessageList>
-           <MessageInput placeholder='Type your message' onSend={handleSend} className='inputText'/>
+           <MessageInput placeholder='Type your message' onSend={handleSend} className='inputText' />
          </ChatContainer>
        </MainContainer>
      </div>
