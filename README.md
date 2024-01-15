@@ -1,4 +1,4 @@
-# Team ### - GfG: Hack for Health 
+# GfG: Hack for Health 
 
 
 
