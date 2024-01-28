@@ -12,4 +12,4 @@ Put your API key in the App.jsx file. Line 8
 ```npm run dev```
 
 ## Demo
-<img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="400" height="400"/>
+<img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="600" height="600"/>
