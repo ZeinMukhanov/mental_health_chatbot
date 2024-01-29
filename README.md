@@ -19,19 +19,13 @@ This project aims to provide a supportive platform leveraging AI technology to d
 To get started with the project, follow these steps:
 
 - Clone the repository to your local machine.
-- Install dependencies using npm install.
+- Install dependencies using ```npm i```.
 - Obtain API keys for the OpenAI API and configure them in the project.
-- Run the development server using npm run dev.
+- Run the development server using ```npm run dev```.
 - Start contributing by exploring the codebase and addressing open issues.
-
-## Install all dependencies
-```npm i```
 
 ## Put your own API Key
 Put your API key in the App.jsx file. Line 8
-
-## Run the App
-```npm run dev```
 
 ## Demo
 <img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="600" height="600"/>
