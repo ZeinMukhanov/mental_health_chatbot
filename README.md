@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 - Start contributing by exploring the codebase and addressing open issues.
 
 ## Put your own API Key
-Put your API key in the App.jsx file. Line 8
+Put your API key in the ```App.jsx``` file. Line 8
 
 ## Demo
 <img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="600" height="600"/>
