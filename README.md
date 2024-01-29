@@ -15,6 +15,15 @@ This project aims to provide a supportive platform leveraging AI technology to d
 - HTML/CSS: Structure and styling for the user interface design.
 - OpenAI API: Integration for natural language processing and AI-driven conversations.
 
+## Getting started:
+To get started with the project, follow these steps:
+
+- Clone the repository to your local machine.
+- Install dependencies using npm install.
+- Obtain API keys for the OpenAI API and configure them in the project.
+- Run the development server using npm run dev.
+- Start contributing by exploring the codebase and addressing open issues.
+
 ## Install all dependencies
 ```npm i```
 
