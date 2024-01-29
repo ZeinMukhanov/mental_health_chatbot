@@ -11,7 +11,7 @@ This project aims to provide a supportive platform leveraging AI technology to d
 ## Technologies used:
 - ReactJS: Frontend development for building a responsive and interactive user interface.
 - ViteJS: A fast, modern build tool for efficient project setup and development.
--JavaScript: Core programming language for implementing logic and functionality.
+- JavaScript: Core programming language for implementing logic and functionality.
 - HTML/CSS: Structure and styling for the user interface design.
 - OpenAI API: Integration for natural language processing and AI-driven conversations.
 
