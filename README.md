@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 - Clone the repository to your local machine.
 - Install dependencies using ```npm i```.
-- Obtain API keys for the OpenAI API and configure them in the project.
+- Obtain API keys for the OpenAI API and configure them in the project (gpt-3.5-turbo).
 - Run the development server using ```npm run dev```.
 - Start contributing by exploring the codebase and addressing open issues.
 
